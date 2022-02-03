@@ -1,0 +1,2 @@
+model_checkpoint_path: "HW5_Khanna.ckpt"
+all_model_checkpoint_paths: "HW5_Khanna.ckpt"
